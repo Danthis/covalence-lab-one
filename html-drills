@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Drills</title>
+</head>
+
+<body>
+    <div class="container">
+        <table>
+            <tr>
+                <td>
+                    <h2>Month</h2>
+                </td>
+                <td>
+                    <h2>Day</h2>
+                </td>
+                <td>
+                    <h2>Year</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>Febuary</td>
+                <td>24</td>
+                <td>2024</td>
+            </tr>
+            <tr>
+                <td>Febuary</td>
+                <td>25</td>
+                <td>2024</td>
+            </tr>
+        </table>
+        <hr>
+        <section>
+            <h1>Silly Goose</h1>
+            <p>I really don't like Geese.</p>
+            <ul>
+                <li>Goose#1</li>
+                <li>Goose#2</li>
+                <li>Gooese#3</li>
+            </ul>
+            <a href="https://www.google.com/search?q=goose&sca_esv=9720d22755587977&hl=en&authuser=0&tbm=isch&sxsrf=ACQVn09QfW8FnB6SZfQVEPa9x7Rl5KjAuA%3A1708923675123&source=hp&biw=806&bih=933&ei=GxvcZc7bBNPE0PEPtuG3yAU&iflsig=ANes7DEAAAAAZdwpK9i_ySYmhciYkkzOjAXN3s1Ai_mM&oq=&gs_lp=EgNpbWciACoCCAQyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCdIqChQAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAIoCC2d3cy13aXotaW1nmAIBoAIJqAIKmAMJkgcBMQ&sclient=img"
+                target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Domestic_goose.png/1200px-Domestic_goose.png"
+                    alt="Goose" width="300" height="300">
+            </a>
+        </section>
+        <hr>
+        <section>
+            <h2>Super Silly Goose</h2>
+            <p>I really am enjoying coding so far.</p>
+            <ul>
+                <li>Learn HTML</li>
+                <li>Learn CSS</li>
+                <li>Learn JavaScript</li>
+            </ul>
+            <a href="https://www.google.com/search?q=super+silly+goose&tbm=isch&ved=2ahUKEwj54YTonMiEAxWh0ckDHdsKCT0Q2-cCegQIABAA&oq&gs_lp=EgNpbWciACoCCAcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCdIvBpQoQlYoQlwAXgAkAEAmAF9oAF9qgEDMC4xuAEByAEA-AEBigILZ3dzLXdpei1pbWeoAgrCAgQQIxgnwgIIEAAYgAQYsQPCAgoQABiABBiKBRhDwgINEAAYgAQYigUYQxixA4gGAQ&sclient=img&ei=IRvcZbnNM6Gjp84P25Wk6AM&authuser=0&bih=933&biw=806&hl=en"
+                target="_blank">
+                <img src="https://i.etsystatic.com/11214421/r/il/c1423a/3636713133/il_fullxfull.3636713133_784l.jpg"
+                    alt="Silly Goose" width="300" height="300">
+            </a>
+        </section>
+        <hr>
+        <section>
+            <h3>What...</h3>
+            <p>I'm a pretty big gamer. I love to play OSRS and Guild Wars 2</p>
+            <ul>
+                <li>OSRS</li>
+                <li>Guild Wars 2</li>
+                <li>World of Warcraft</li>
+            </ul>
+            <a href="https://www.google.com/search?q=guild+wars+2&tbm=isch&ved=2ahUKEwizn6yqnciEAxUSxskDHeGfBVgQ2-cCegQIABAA&oq&gs_lp=EgNpbWciACoCCAcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCdIgRVQ1AdY1AdwAXgAkAEAmAHHAaABxwGqAQMwLjG4AQHIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBBAjGCeIBgE&sclient=img&ei=rBvcZbOZN5KMp84P4b-WwAU&authuser=0&bih=933&biw=806&hl=en"
+                target="_blank">
+                <img src="https://guildwars2.staticwars.com/wp-content/themes/guildwars2.com-live/img/og-img.f6214476.jpg"
+                    alt="Guild Wars 2" width="600" height="400">
+            </a>
+        </section>
+        <hr>
+        <section>
+            <h4>Really?...</h4>
+            <p>I am a huge fan of Framed, the OSRS Youtuber.</p>
+            <ul>
+                <li>Framed</li>
+                <li>J1mmy</li>
+                <li>Coffinated Dad</li>
+            </ul>
+            <a href="https://www.google.com/search?q=framed+osrsr&tbm=isch&ved=2ahUKEwiLqK_DnciEAxVLxMkDHbTBCEMQ2-cCegQIABAA&oq&gs_lp=EgNpbWciACoCCAcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCdIzhdQiApYiApwAXgAkAEAmAF-oAF-qgEDMC4xuAEByAEA-AEBigILZ3dzLXdpei1pbWeoAgrCAgQQIxgnwgIFEAAYgATCAgoQABiABBiKBRhDiAYB&sclient=img&ei=4RvcZcuzF8uIp84PtIOjmAQ&authuser=0&bih=933&biw=806&hl=en"
+                target="_blank">
+                <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/framed-profile_image-bdc3fdefc6a47561-300x300.jpeg"
+                    alt="Framed OSRS" width="300" height="300">
+            </a>
+        </section>
+        <hr>
+        <section>
+            <h5>Lets keep going...</h5>
+            <p>I love to go snowboarding.</p>
+            <ul>
+                <li>Snowboarding</li>
+                <li>Skiing</li>
+                <li>Snow Shoeing</li>
+            </ul>
+            <a href="https://www.cnn.com/2022/02/10/sport/protect-our-winters-jeremy-jones-c2e-spc-intl/index.html"
+                target="_blank">
+                <img src="https://media.cnn.com/api/v1/images/stellar/prod/220206130655-01-jeremy-jones-protect-our-winters-c2e-spc-intl.jpg?q=h_1068,w_1600,x_0,y_0/h_618"
+                    alt="Snowboarding" width="400" height="300">
+            </a>
+        </section>
+        <hr>
+        <section>
+            <h6>Finally! I'm done!</h6>
+            <p>I live in South Dakota, but i'd love to venture out more into the states.</p>
+            <ul>
+                <li>Virginia</li>
+                <li>Alaska</li>
+                <li>New Hampshire</li>
+            </ul>
+            <a href="https://livability.com/sd/" target="_blank">
+                <img src="https://livability.com/wp-content/uploads/2020/03/SDHeader1-1568x790.jpg" alt="South Dakota"
+                    width="400" height="400">
+            </a>
+        </section>
+        <hr>
+        <form action="">
+            <input type="firstname" name="First Name" placeholder="First Name">
+            <input type="Lastname" name="Last Name" placeholder="Last Name">
+            <input type="email" name="Email" placeholder="Email">
+            <button type="submit">Submit</button>
+        </form>
+        <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>Third Party-API's</li>
+        </ol>
+        <a href="https://youtu.be/Aw7Gs91pQ4o?si=_6Br7T-tf2VUTym_">Gummy Bear!</a>
+        <hr>
+        <div>
+            <h1>Gladiator</h1>
+        </div>
+        <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png" alt="Gladiator"
+            width="350" height="500">
+        <p>A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and
+            sent him into slavery.</p>
+        <ul>
+            <li>Russel Crowe</li>
+            <li>Joaquin Phoenix</li>
+            <li>Connie Nielsen</li>
+            <li>Oliver Reed</li>
+            <li>Richard Harris</li>
+        </ul>
+        <br>
+        <ul>
+            <li>Release Date: May 5, 2000</li>
+            <li>Budget: $103,000,000</li>
+            <li>Box office Sales:$465,380,802</li>
+        </ul>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/owK1qxDselE?si=xoxWmXkRACCuikAl"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+    </div>
+
+
+</body>
+
+</html>
